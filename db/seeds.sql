@@ -1,2 +1,4 @@
-INSERT INTO burgers_DB VALUES (burger_name, devoured, date_info) 
-VALUES (fried chicken burger, 0 , NOW());
+INSERT INTO burgers (burger_name) VALUES
+("Fried Chicken Burger"),
+("Portobello Mushroon Burger"),
+("Crab Burger");
